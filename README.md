@@ -1,8 +1,8 @@
-losssylesscompressionPHP
+Yii PHP loss less (lossyless) compression class
 ========================
 
-PHP lossy less compression helper class using optiPNG advPNG and advdef. All these component must be installed in the server
-to use this class. Installation of these components can be acheive by just installing advanceMAME:
+PHP lossless (lossyless) compression helper class using optiPNG advPNG and advdef. All these component must be installed in the server
+to use this class. Installation of these components can be achieve by just installing advanceMAME:
 http://sourceforge.net/projects/advancemame/
 
 
@@ -10,7 +10,7 @@ This class can be used independently or with Yii framework.
 
 
 
-examples: 
+Examples: 
 
 To compress the image by lossyless:
  LossylessHelper::lossylessImg('\img\example.png');
