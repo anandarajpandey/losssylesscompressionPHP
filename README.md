@@ -30,3 +30,4 @@ To compress the image by lossyless:
 
 
 Any contribution to the class is highly appreciated.
+@author Ananda Raj Pandey
